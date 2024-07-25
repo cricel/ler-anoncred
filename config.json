@@ -1,0 +1,11 @@
+{
+    "tenantId": "58ffeb26-22af-4fa5-83d9-cde0852dce30",
+    "apiKey": "0060351e8239464c969ad7155c0241e7",
+    "credentialDefinitionId": "S3koxbDkPyMbCobqFbjbyh:3:CL:1381347:Demo Issuance",
+    "autoIssue": false,
+    "credentialData": {
+        "givenName": "John",
+        "familyName": "Doe",
+        "expires": "20231231"
+    }
+}
